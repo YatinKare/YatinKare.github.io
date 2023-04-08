@@ -1,0 +1,61 @@
+html {
+    background-color: black;
+    color:white;
+}
+
+#header {
+    text-align: center;
+}
+
+#description {
+    text-align: center;
+}
+
+.link {
+    color:white;
+    font-size: 20;
+}
+a:visited {
+    color:greenyellow;
+}
+
+.imageDescription {
+    padding: 8% 0;
+}
+
+.imageRight {
+    margin-left: 15px;
+    border: 10px;
+    border-color: white;
+    float: right;
+    max-width: 500px;
+    max-height: 300px;
+}
+
+.imageLeft {
+    margin-right: 15px;
+    border: 10px;
+    border-color: white;
+    float: left;
+    max-width: 500px;
+    max-height: 300px;
+}
+
+.attribute {
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-bottom: 50px;
+}
+
+hr.rounded {
+  border-top: 8px solid #bbb;
+  border-radius: 5px;
+}
+
+header {
+    background-color: grey;
+}
+
+footer {
+    background-color: grey;
+}
